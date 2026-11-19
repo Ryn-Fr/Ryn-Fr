@@ -40,6 +40,6 @@ I work at **HNS IT Center**, a computer and laptop hardware retailer, where I ha
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [sisfo_hns](https://github.com/RynFrn/sisfo_hns) | Information system for HNS IT Center | _fill in_ |
-| [sistem-informasi-interior](https://github.com/RynFrn/sistem-informasi-interior) | Information system for an interior design business | _fill in_ |
-| [To-do-list](https://github.com/RynFrn/To-do-list) | To-do list app | _fill in_ |
+| [sisfo_hns](https://github.com/Ryn-Fr/sisfo_hns) | Information system for HNS IT Center | _fill in_ |
+| [sistem-informasi-interior](https://github.com/Ryn-Fr/sistem-informasi-interior) | Information system for an interior design business | _fill in_ |
+| [To-do-list](https://github.com/Ryn-Fr/To-do-list) | To-do list app | _fill in_ |
